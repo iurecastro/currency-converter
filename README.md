@@ -60,5 +60,3 @@ currency-converter/
 2. Select the source currency.
 3. Select the target currency.
 4. Click the "Convert" button to see the conversion result.
-
-
