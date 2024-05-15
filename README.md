@@ -53,7 +53,7 @@ currency-converter/
   │   └── index.js
   ├── .gitignore
   ├── package.json
-  ├── README.md
+  ├── README.md```
 
 ## How to Use
 1. Enter the amount you want to convert.
