@@ -41,6 +41,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 4. Open your browser and go to http://localhost:3000 to see the app in action.
 
 
+
 ## Project Structure
    ```plaintext
 currency-converter/
@@ -53,10 +54,4 @@ currency-converter/
   │   └── index.js
   ├── .gitignore
   ├── package.json
-  ├── README.md```
-
-## How to Use
-1. Enter the amount you want to convert.
-2. Select the source currency.
-3. Select the target currency.
-4. Click the "Convert" button to see the conversion result.
+  ├── README.md 
