@@ -55,9 +55,10 @@ currency-converter/
   ├── package.json
   ├── README.md
 
+## How to Use
+1. Enter the amount you want to convert.
+2. Select the source currency.
+3. Select the target currency.
+4. Click the "Convert" button to see the conversion result.
 
-
-5. 
-6. 
-7.
 
