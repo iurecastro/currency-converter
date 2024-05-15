@@ -43,7 +43,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
 
 ## Project Structure
-   ```plaintext
+ 
 currency-converter/
   ├── public/
   ├── src/
