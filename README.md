@@ -30,3 +30,9 @@ Make sure you have Node.js and npm installed on your machine. You can download t
    ```sh
    git clone https://github.com/iurecastro/currency-converter.git
    cd currency-converter
+
+2. Install the dependencies:
+    ```sh
+    npm install
+
+3. 
