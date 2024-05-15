@@ -40,7 +40,7 @@ Make sure you have Node.js and npm installed on your machine. You can download t
    npm start
 4. Open your browser and go to http://localhost:3000 to see the app in action.
 
-
+```plaintext
 
 ## Project Structure
  
@@ -55,4 +55,4 @@ currency-converter/
   ├── .gitignore
   ├── package.json
   ├── README.md 
-## Overview
+
