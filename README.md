@@ -40,9 +40,9 @@ Make sure you have Node.js and npm installed on your machine. You can download t
    npm start
 4. Open your browser and go to http://localhost:3000 to see the app in action.
 
-```plaintext
-
 ## Project Structure
+
+```plaintext
  
 currency-converter/
   ├── public/
@@ -57,8 +57,15 @@ currency-converter/
   ├── README.md 
 ```
 
-How to Use
+## How to Use
 1. Enter the amount you want to convert.
 2. Select the source currency.
 3. Select the target currency.
 4. Click the "Convert" button to see the conversion result.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+Developed by Iure Castro.
