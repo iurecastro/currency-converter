@@ -33,6 +33,31 @@ Make sure you have Node.js and npm installed on your machine. You can download t
 
 2. Install the dependencies:
     ```sh
-    npm install
+   npm install
 
-3. 
+3. Start the application:
+   ```sh
+   npm start
+4. Open your browser and go to http://localhost:3000 to see the app in action.
+
+
+## Project Structure
+   ```plaintext
+currency-converter/
+  ├── public/
+  ├── src/
+  │   ├── components/
+  │   │   └── CurrencyConverter.js
+  │   ├── App.js
+  │   ├── App.css
+  │   └── index.js
+  ├── .gitignore
+  ├── package.json
+  ├── README.md
+
+
+
+5. 
+6. 
+7.
+
