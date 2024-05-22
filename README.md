@@ -3,6 +3,9 @@ Currency converter React + Axios + CSS
 
 This is a currency conversion application developed with React.js. It allows users to convert values between different currencies using an exchange rate API.
 
+![alt text](https://github.com/iurecastro/currency-converter/blob/main/public/images/printProject.png)
+
+
 ## Overview
 
 Currency Converter is a simple application that allows users to select a source currency and a target currency, enter an amount, and get the updated conversion. The app uses the [Exchangerate-API](https://www.exchangerate-api.com/) to fetch exchange rates.
